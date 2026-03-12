@@ -30,9 +30,13 @@ Thumbs.db
 logs/
 *.log
 
-# Markdown (except README)
+# Markdown (except README and CLAUDE)
 *.md
 !README.md
+!CLAUDE.md
 
 # Claude
 .claude/
+
+# Ruff
+.ruff_cache/
