@@ -1,0 +1,5 @@
+pandas>=2.0
+pyarrow>=14.0
+trafilatura>=1.6
+requests>=2.31
+tqdm>=4.66

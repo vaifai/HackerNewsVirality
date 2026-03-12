@@ -1,0 +1,38 @@
+# Data files
+*.csv
+data/*.parquet
+data/content/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Markdown (except README)
+*.md
+!README.md
+
+# Claude
+.claude/
